@@ -4,6 +4,9 @@
   "version": "11.0.0",
   "license": "MIT",
   "main": "./dist/ngx-scroll-to/esm2015/public-api.js",
+  "files": [
+    "dist/**/*"
+  ],
   "scripts": {
     "ng": "ng",
     "start": "ng serve ngx-scroll-to-demo",
