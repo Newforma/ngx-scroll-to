@@ -3,7 +3,7 @@
   "description": "Demo Application for @nicky-lenaers/ngx-scroll-to package.",
   "version": "11.0.0",
   "license": "MIT",
-  "main": "./dist/esm2015/public-api.js",
+  "main": "./dist/ngx-scroll-to/esm2015/public-api.js",
   "scripts": {
     "ng": "ng",
     "start": "ng serve ngx-scroll-to-demo",
