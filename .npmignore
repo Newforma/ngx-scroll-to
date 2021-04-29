@@ -42,3 +42,8 @@ Jenkinsfile
 projects/
 .github
 .circleci
+angular.json
+dist/
+tsconfig.json
+tslint.json
+

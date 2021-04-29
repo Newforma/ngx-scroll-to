@@ -7,7 +7,7 @@
     "ng": "ng",
     "start": "ng serve ngx-scroll-to-demo",
     "build": "ng build --prod && npm run post-build",
-    "post-build": "copyfiles -u 2 'dist/ngx-scroll-to/**/*' ngx-scroll-to-lib",
+    "post-build": "copyfiles -u 2 'dist/ngx-scroll-to/**/*' .",
     "build:demo": "ng build ngx-scroll-to-demo --prod",
     "test": "ng test --watch=false",
     "test:demo": "ng test ngx-scroll-to-demo --watch=false",
