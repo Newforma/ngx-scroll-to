@@ -1,6 +1,6 @@
 {
   "name": "@newforma/ngx-scroll-to-demo",
-  "description": "Forked demo application and package from @nicky-lenaers/ngx-scroll-to",
+  "description": "Forked demo application and package from @nicky-lenaers/ngx-scroll-to.",
   "version": "11.0.0",
   "license": "MIT",
   "scripts": {
