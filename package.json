@@ -3,14 +3,11 @@
   "description": "Demo Application for @nicky-lenaers/ngx-scroll-to package.",
   "version": "11.0.0",
   "license": "MIT",
-  "main": "./dist/ngx-scroll-to/esm2015/public-api.js",
-  "files": [
-    "dist/**/*"
-  ],
   "scripts": {
     "ng": "ng",
     "start": "ng serve ngx-scroll-to-demo",
-    "build": "ng build --prod",
+    "build": "ng build --prod && npm run post-build",
+    "post-build": "copyfiles -u 2 'dist/ngx-scroll-to/**/*' ngx-scroll-to-lib",
     "build:demo": "ng build ngx-scroll-to-demo --prod",
     "test": "ng test --watch=false",
     "test:demo": "ng test ngx-scroll-to-demo --watch=false",
