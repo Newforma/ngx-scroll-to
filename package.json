@@ -7,7 +7,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve ngx-scroll-to-demo",
-    "build": "ng build --prod && cd ./dist/ngx-scroll-to && npm pack",
+    "build": "ng build --prod",
     "build:demo": "ng build ngx-scroll-to-demo --prod",
     "test": "ng test --watch=false",
     "test:demo": "ng test ngx-scroll-to-demo --watch=false",

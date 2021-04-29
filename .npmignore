@@ -37,3 +37,8 @@ lib-cov
 
 # CI-CD
 Jenkinsfile
+
+# Project files
+projects/
+.github
+.circleci
