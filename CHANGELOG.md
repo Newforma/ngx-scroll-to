@@ -1,5 +1,5 @@
 <a name="11.0.0"></a>
-# [11.0.0](link-to-be-added) (date-tbd)
+# 11.0.0 (2020-05-04)
 * Added support for Angular 11.
 * Updated outdated dependencies.
 * Changed package.json scripts.
