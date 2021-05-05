@@ -3,7 +3,7 @@
 
 def config = [:]
 config.serviceName = '@newforma/ngx-scroll-to'
-config.slackChannel = '#npm-packages'
+config.slackChannel = '#my-test-channel'
 config.languageVersion = 'node-12'
 
 npmPkg(config)
