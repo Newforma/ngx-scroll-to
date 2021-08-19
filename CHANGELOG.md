@@ -1,4 +1,8 @@
-<a name="11.0.1"></a>
+<a name="12.0.0"></a>
+# 12.0.0 (2021-08-19)
+* Added support for Angular 12.
+
+  <a name="11.0.1"></a>
 # 11.0.1 (2021-06-04)
 * Fixing dependency vulnerabilities
 * Updated package.json & package-lock.json 
