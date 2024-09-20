@@ -34,17 +34,17 @@
     "url": "https://github.com/nicky-lenaers/ngx-scroll-to/issues"
   },
   "dependencies": {
-    "@angular/animations": "~12.2.1",
-    "@angular/common": "~12.2.1",
-    "@angular/compiler": "~12.2.1",
-    "@angular/core": "~12.2.1",
-    "@angular/forms": "~12.2.1",
-    "@angular/platform-browser": "~12.2.1",
-    "@angular/platform-browser-dynamic": "~12.2.1",
-    "@angular/router": "~12.2.1",
+    "@angular/animations": "~12.2.17",
+    "@angular/common": "~12.2.17",
+    "@angular/compiler": "~12.2.17",
+    "@angular/core": "~12.2.17",
+    "@angular/forms": "~12.2.17",
+    "@angular/platform-browser": "~12.2.17",
+    "@angular/platform-browser-dynamic": "~12.2.17",
+    "@angular/router": "~12.2.17",
     "rxjs": "~6.6.7",
-    "tslib": "^2.0.0",
-    "zone.js": "~0.11.4"
+    "tslib": "^2.7.0",
+    "zone.js": "~0.15.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~12.2.1",
